@@ -1,9 +1,11 @@
 streamlit
 plotly
 yfinance
+ta
 pandas
 numpy
 requests
+
 
 
 
