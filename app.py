@@ -32,7 +32,7 @@ class Config:
     TP3_PIPS = 700
     MIN_SL_PIPS = 40
     MAX_SL_PIPS = 80
-    POINT = 0.01  # For XAU/USD
+    POINT = 0.10 # For XAU/USD
 
 # ==================== DATA HANDLER ====================
 class DataHandler:
